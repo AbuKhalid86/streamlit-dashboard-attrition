@@ -1,4 +1,3 @@
-```markdown
 # 📊 Dashboard Analisis Attrition - Jaya Jaya Maju
 
 Dashboard interaktif ini dirancang menggunakan **Streamlit** untuk menganalisis data *employee attrition* di perusahaan Jaya Jaya Maju. Dashboard mencakup berbagai aspek seperti demografi, kepuasan kerja, kompensasi, dan feature importance dari model machine learning.
