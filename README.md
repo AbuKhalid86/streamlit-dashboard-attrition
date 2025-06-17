@@ -1,7 +1,3 @@
----
-
-### 📄 `README.md`
-
 ```markdown
 # 📊 Dashboard Analisis Attrition - Jaya Jaya Maju
 
